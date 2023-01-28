@@ -11,10 +11,10 @@ import (
 	"syscall"
 	"time"
 
-	"gopkg.in/src-d/go-billy.v4"
-	"gopkg.in/src-d/go-billy.v4/helper/chroot"
-	"gopkg.in/src-d/go-billy.v4/helper/mount"
-	"gopkg.in/src-d/go-billy.v4/util"
+	"github.com/go-git/go-billy/v5"
+	"github.com/go-git/go-billy/v5/helper/chroot"
+	"github.com/go-git/go-billy/v5/helper/mount"
+	"github.com/go-git/go-billy/v5/util"
 	"gopkg.in/src-d/go-siva.v1"
 )
 
