@@ -1,4 +1,4 @@
-module github.com/cyraxred/go-billy-siva.v5
+module github.com/cyraxred/go-billy-siva
 
 require (
 	github.com/go-git/go-billy/v5 v5.4.0
